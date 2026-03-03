@@ -10,7 +10,7 @@ satty --filename <path to screenshot>
 
 - Python 3 with PyGObject (GObject Introspection)
 - `xdg-desktop-portal` and portal implementation (e.g. GNOME’s) for screenshots
-- [Satty](https://github.com/guillaumebreton/satty) installed and available in your PATH (e.g. in `~/bin` or `/usr/bin`)
+- [Satty](https://github.com/noornee/satty) installed and available in your PATH (e.g. in `~/bin` or `/usr/bin`)
 
 ### Fedora / RHEL
 
